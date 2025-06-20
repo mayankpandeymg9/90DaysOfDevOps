@@ -25,4 +25,8 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
    - Share your LinkedIn post or article link in the community forum or on social media using the hashtags #90DaysOfDevOps and #TrainWithShubham.
    - Read and comment on posts from other participants to foster a collaborative learning environment.
 
+<<<<<<< HEAD
 5. **Link of my Post in LinkedIn:** [LinkedIn post](https://www.linkedin.com/posts/mayankpandeymg_90daysofdevops-trainwithshubham-activity-7341757275335770114-4HiY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBtzyMBnOMH3HDM1QsyyWiiM8byda7Ian0)
+=======
+5. **Link of my Post in LinkedIn:** [LinkedIn post](https://www.linkedin.com/posts/mayankpandeymg_90daysofdevops-trainwithshubham-activity-7341757275335770114-4HiY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBtzyMBnOMH3HDM1QsyyWiiM8byda7Ian0)
+>>>>>>> 95d287d108af9c5a6beac7d956c159efa6e96f22
